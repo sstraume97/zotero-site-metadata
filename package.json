@@ -1,20 +1,20 @@
 {
-	"name": "zotero-site-metadata",
-	"version": "0.0.1",
-	"description": "Automatically fill in metadata for websites without built-in translators. Best for blogs.",
-	"author": "Abutalib-Barish Namazov <https://barish.me>",
-	"license": "MIT",
-	"type": "module",
-	"homepage": "https://github.com/BarishNamazov/zotero-site-metadata",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/BarishNamazov/zotero-site-metadata"
-	},
-	"scripts": {
-		"build": "node build.js",
-		"watch": "node build.js --watch"
-	},
-	"engines": {
-		"node": ">=20"
-	}
+  "name": "zotero-site-metadata",
+  "version": "0.0.1",
+  "description": "Automatically fills metadata for websites based on your library.",
+  "author": "Abutalib-Barish Namazov <https://barish.me>",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "https://github.com/BarishNamazov/zotero-site-metadata",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BarishNamazov/zotero-site-metadata"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "watch": "node scripts/build.js --watch"
+  },
+  "engines": {
+    "node": ">=20"
+  }
 }
