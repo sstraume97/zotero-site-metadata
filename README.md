@@ -8,6 +8,9 @@ this plugin will save you the trouble of manually entering metadata.
 
 Pull requests and/or issues with suggestions for improvement are welcome!
 
+<img src="https://raw.githubusercontent.com/BarishNamazov/zotero-site-metadata/refs/heads/main/logo-inkscape.svg" 
+     width="300px" height="300px" alt="Site Metadata icon">
+
 ## Installation Guide
 
 ### Quick Install
