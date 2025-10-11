@@ -1,0 +1,3 @@
+*.xpi
+dist/
+node_modules/
