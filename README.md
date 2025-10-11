@@ -43,3 +43,8 @@ npm run build
 4. Restart Zotero
 
 Your Zotero library items will not be affected by uninstalling the plugin.
+
+## Future Work
+
+- [ ] Allow the user to allow or disallow specific domains in Zotero
+- your request?
