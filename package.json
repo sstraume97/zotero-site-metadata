@@ -1,6 +1,6 @@
 {
   "name": "zotero-site-metadata",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Automatically fills metadata for websites based on your library.",
   "author": "Abutalib-Barish Namazov <https://barish.me>",
   "license": "MIT",
